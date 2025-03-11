@@ -42,4 +42,3 @@ CSS (Cascading Style Sheets) é a linguagem usada para definir o estilo dos elem
 - `atividade.css` (Personalização completa do currículo)
 - `README.md` (Explicações e respostas sobre CSS e unidades de medida)
 
-🚀 **Publicação:** Criado em uma nova branch. Acesse o link da branch: [Adicionar Link Aqui]
